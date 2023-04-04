@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding:0 ;
+}
+
+body{
+	margin:0 ;
+	font-family: Arial,"Helvetica Neue", Helvetica , sans-serif;
+    font-size: 20px;
+    color:black ;
+    line-height:1.5 ;
+
+}
+
+#Showcase{
+	display: inline-flex;
+	flex-direction:column ;
+	justify-content:inherit ;
+	align-items: right;
+	text-align: center;
+	padding:0 250px ;
+
+}
+
+#Showcase h1{
+	font-size:50px ;
+	position: center;
+	line-height:1.5 ;
+
+}
+
+#Showcase p{
+	font-size:20px ;
+
+}
+#Showcase .button{
+	font-size:18px ;
+	text-decoration:none ;
+	color:darkblue ;
+	border:darkred;  1px solid;
+	padding:10px 20px ;
+	border-radius: 10pxS;
+	margin-top: 20px;
+}
+
+#Showcase .button:hover{
+	background:black ;
+	color:brown;
+	
+}
+
+#Section-a{
+	padding: 20px;
+    background: transparent;
+    color:white;
+    text-align: left;
+
+}
+
+
+
+#Section-c{
+	display:inline-flex;
+   
+ 
+}
+
+#Section-c div{
+	padding: 40px;
+}
+
+#Section-c .box1{
+	background: grey;
+	color: black;
+}
+	
+#Section-c .box2{
+	background: ghostwhite;
+	color: black;
+}
+#Section-c .box3{
+	background: floralwhite;
+	color: black;
+}
+#Section-c .box4{
+	background: navajowhite;
+	color: black;
+}
+#Section-c .box5{
+	background: whitesmoke;
+	color: black;
+}
