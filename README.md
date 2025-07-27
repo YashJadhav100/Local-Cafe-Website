@@ -32,8 +32,11 @@ A beautifully styled static landing page for a coffee shop or café. Built using
 ## 📂 File Structure
 
 CafeLandingPage/
+
 ├── Cafe.html # Main HTML file
+
 ├── style.css # Custom CSS file
+
 ├── CafeB.jpg # Background image
 
 ## ✍️ Author
